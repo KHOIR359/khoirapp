@@ -1,0 +1,25 @@
+#boxTabungan {
+  border-radius: .7rem;
+  padding: .5rem 1rem;
+  background-color: white;
+}
+
+#boxTabungan h2 {
+  color: #2C73D2;
+  margin: 0;
+  margin-top: .5rem;
+}
+
+#boxTabungan h3 {
+  margin: 0;
+  padding: 1rem 0;
+}
+
+#boxTabungan div.boxFooter {
+  padding: .5rem 0;
+  border-top: 1px solid #eee;
+}
+
+#boxTabungan div.boxFooter a {
+  color: #2C73D2;
+}
